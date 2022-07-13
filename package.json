@@ -1,0 +1,19 @@
+{
+  "name": "write-templates",
+  "version": "1.0.0",
+  "description": "pressto template board styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/pressto/write-templates.git",
+  "keywords": [
+    "pressto"
+  ],
+  "author": "pressto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pressto/write-templates/issues"
+  },
+  "homepage": "https://github.com/pressto/write-templates#readme"
+}
