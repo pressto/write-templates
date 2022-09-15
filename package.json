@@ -6,9 +6,13 @@
     "./": "./src/"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass src/styles.scss dist/styles.css"
   },
-  "repository": "git+https://github.com/pressto/write-templates.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pressto/write-templates.git"
+  },
   "keywords": [
     "pressto"
   ],
@@ -17,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/pressto/write-templates/issues"
   },
-  "homepage": "https://github.com/pressto/write-templates#readme"
+  "homepage": "https://github.com/pressto/write-templates#readme",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
 }
