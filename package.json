@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/pressto/write-templates#readme",
   "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
     "node-sass": "^7.0.3"
   }
 }
