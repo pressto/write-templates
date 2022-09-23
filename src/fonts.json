@@ -31,16 +31,6 @@
     },
     {
         "name": "Roboto",
-        "files": {
-            "eot": "roboto/roboto-v30-latin-regular.eot",
-            "svg": "roboto/roboto-v30-latin-regular.svg",
-            "ttf": "roboto/roboto-v30-latin-regular.ttf",
-            "woff": "roboto/roboto-v30-latin-regular.woff",
-            "woff2": "roboto/roboto-v30-latin-regular.woff2"
-        }
-    },
-    {
-        "name": "Roboto",
         "style": "italic",
         "files": {
             "eot": "roboto/roboto-v30-latin-italic.eot",
@@ -51,13 +41,13 @@
         }
     },
     {
-        "name": "Source Serif 4",
+        "name": "Roboto",
         "files": {
-            "eot": "source_serif_4/source-serif-4-v6-latin-regular.eot",
-            "svg": "source_serif_4/source-serif-4-v6-latin-regular.svg",
-            "ttf": "source_serif_4/source-serif-4-v6-latin-regular.ttf",
-            "woff": "source_serif_4/source-serif-4-v6-latin-regular.woff",
-            "woff2": "source_serif_4/source-serif-4-v6-latin-regular.woff2"
+            "eot": "roboto/roboto-v30-latin-regular.eot",
+            "svg": "roboto/roboto-v30-latin-regular.svg",
+            "ttf": "roboto/roboto-v30-latin-regular.ttf",
+            "woff": "roboto/roboto-v30-latin-regular.woff",
+            "woff2": "roboto/roboto-v30-latin-regular.woff2"
         }
     },
     {
@@ -72,24 +62,25 @@
         }
     },
     {
-        "name": "Open Sans",
+        "name": "Source Serif 4",
         "files": {
-          "eot": "open_sans/open-sans-v34-latin-regular.eot",
-          "svg": "open_sans/open-sans-v34-latin-regular.svg",
-          "ttf": "open_sans/open-sans-v34-latin-regular.ttf",
-          "woff": "open_sans/open-sans-v34-latin-regular.woff",
-          "woff2": "open_sans/open-sans-v34-latin-regular.woff2"
+            "eot": "source_serif_4/source-serif-4-v6-latin-regular.eot",
+            "svg": "source_serif_4/source-serif-4-v6-latin-regular.svg",
+            "ttf": "source_serif_4/source-serif-4-v6-latin-regular.ttf",
+            "woff": "source_serif_4/source-serif-4-v6-latin-regular.woff",
+            "woff2": "source_serif_4/source-serif-4-v6-latin-regular.woff2"
         }
     },
     {
         "name": "Open Sans",
+        "weight": "bold",
         "style": "italic",
         "files": {
-            "eot": "open_sans/open-sans-v34-latin-italic.eot",
-            "svg": "open_sans/open-sans-v34-latin-italic.svg",
-            "ttf": "open_sans/open-sans-v34-latin-italic.ttf",
-            "woff": "open_sans/open-sans-v34-latin-italic.woff",
-            "woff2": "open_sans/open-sans-v34-latin-italic.woff2"
+            "eot": "open_sans/open-sans-v34-latin-700italic.eot",
+            "svg": "open_sans/open-sans-v34-latin-700italic.svg",
+            "ttf": "open_sans/open-sans-v34-latin-700italic.ttf",
+            "woff": "open_sans/open-sans-v34-latin-700italic.woff",
+            "woff2": "open_sans/open-sans-v34-latin-700italic.woff2"
         }
     },
     {
@@ -105,14 +96,23 @@
     },
     {
         "name": "Open Sans",
-        "weight": "bold",
         "style": "italic",
         "files": {
-            "eot": "open_sans/open-sans-v34-latin-700italic.eot",
-            "svg": "open_sans/open-sans-v34-latin-700italic.svg",
-            "ttf": "open_sans/open-sans-v34-latin-700italic.ttf",
-            "woff": "open_sans/open-sans-v34-latin-700italic.woff",
-            "woff2": "open_sans/open-sans-v34-latin-700italic.woff2"
+            "eot": "open_sans/open-sans-v34-latin-italic.eot",
+            "svg": "open_sans/open-sans-v34-latin-italic.svg",
+            "ttf": "open_sans/open-sans-v34-latin-italic.ttf",
+            "woff": "open_sans/open-sans-v34-latin-italic.woff",
+            "woff2": "open_sans/open-sans-v34-latin-italic.woff2"
+        }
+    },
+    {
+        "name": "Open Sans",
+        "files": {
+          "eot": "open_sans/open-sans-v34-latin-regular.eot",
+          "svg": "open_sans/open-sans-v34-latin-regular.svg",
+          "ttf": "open_sans/open-sans-v34-latin-regular.ttf",
+          "woff": "open_sans/open-sans-v34-latin-regular.woff",
+          "woff2": "open_sans/open-sans-v34-latin-regular.woff2"
         }
     }
 ]
