@@ -10,13 +10,13 @@
         }
     },
     {
-        "name": "Bebas",
+        "name": "Oswald",
         "files": {
-            "eot": "bebas_neue/bebas-neue-v9-latin-regular.eot",
-            "svg": "bebas_neue/bebas-neue-v9-latin-regular.svg",
-            "ttf": "bebas_neue/bebas-neue-v9-latin-regular.ttf",
-            "woff": "bebas_neue/bebas-neue-v9-latin-regular.woff",
-            "woff2": "bebas_neue/bebas-neue-v9-latin-regular.woff2"
+            "eot": "oswald/oswald-regular.eot",
+            "svg": "oswald/oswald-regular.svg",
+            "ttf": "oswald/oswald-regular.ttf",
+            "woff": "oswald/oswald-regular.woff",
+            "woff2": "oswald/oswald-regular.woff2"
         }
     },
     {
