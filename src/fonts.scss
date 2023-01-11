@@ -62,6 +62,8 @@
     url('./fonts/open_sans/open_sans-v34-latin-regular.ttf') format('ttf'),
     url('./fonts/open_sans/open_sans-v34-latin-regular.woff') format('woff'),
     url('./fonts/open_sans/open_sans-v34-latin-regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal;
 }
 @font-face {
   font-family: 'Open Sans';
@@ -70,7 +72,8 @@
     url('./fonts/open_sans/open_sans-v34-latin-italic.ttf') format('ttf'),
     url('./fonts/open_sans/open_sans-v34-latin-italic.woff') format('woff'),
     url('./fonts/open_sans/open_sans-v34-latin-italic.woff2') format('woff2');
-  font-style: 'italic';
+  font-style: italic;
+  font-weight: normal;
 }
 @font-face {
   font-family: 'Open Sans';
@@ -79,7 +82,8 @@
     url('./fonts/open_sans/open_sans-v34-latin-700.ttf') format('ttf'),
     url('./fonts/open_sans/open_sans-v34-latin-700.woff') format('woff'),
     url('./fonts/open_sans/open_sans-v34-latin-700.woff2') format('woff2');
-  font-weight: 'bold';
+  font-style: normal;
+  font-weight: bold;
 }
 @font-face {
   font-family: 'Open Sans';
@@ -88,8 +92,8 @@
     url('./fonts/open_sans/open_sans-v34-latin-700italic.ttf') format('ttf'),
     url('./fonts/open_sans/open_sans-v34-latin-700italic.woff') format('woff'),
     url('./fonts/open_sans/open_sans-v34-latin-700italic.woff2') format('woff2');
-  font-weight: 'bold';
-  font-style: 'italic';
+  font-style: italic;
+  font-weight: bold;
 }
 @font-face {
   font-family: 'Roboto';

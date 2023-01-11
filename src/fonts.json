@@ -86,6 +86,7 @@
     {
         "name": "Open Sans",
         "weight": "bold",
+        "style": "normal",
         "files": {
             "eot": "open_sans/open-sans-v34-latin-700.eot",
             "svg": "open_sans/open-sans-v34-latin-700.svg",
@@ -97,6 +98,7 @@
     {
         "name": "Open Sans",
         "style": "italic",
+        "weight": "normal",
         "files": {
             "eot": "open_sans/open-sans-v34-latin-italic.eot",
             "svg": "open_sans/open-sans-v34-latin-italic.svg",
@@ -107,6 +109,8 @@
     },
     {
         "name": "Open Sans",
+        "style": "normal",
+        "weight": "normal",
         "files": {
           "eot": "open_sans/open-sans-v34-latin-regular.eot",
           "svg": "open_sans/open-sans-v34-latin-regular.svg",
